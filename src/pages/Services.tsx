@@ -46,23 +46,23 @@ const Services = () => {
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Ingest data from APIs/DBs into Azure Data Lake</span>
+                    <span>Azure Data Factory with 50+ SaaS connectors</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Basic PySpark transformations</span>
+                    <span>Delta Lake storage with ACID transactions</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Data quality validation</span>
+                    <span>PySpark ETL with Great Expectations validation</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Basic monitoring setup</span>
+                    <span>Azure Monitor alerts & data lineage tracking</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Documentation & handover</span>
+                    <span>Production deployment & technical documentation</span>
                   </li>
                 </ul>
                 <Button asChild className="w-full">
@@ -99,23 +99,23 @@ const Services = () => {
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Real-time streaming with Databricks</span>
+                    <span>Databricks Delta Live Tables for streaming ETL</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Custom Power BI dashboards</span>
+                    <span>Power BI Premium with DirectQuery optimization</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Automated alert system</span>
+                    <span>Azure Event Hubs real-time ingestion</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Mobile-optimized reports</span>
+                    <span>MLflow model registry & experiment tracking</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />
-                    <span>Advanced data modeling</span>
+                    <span>Medallion architecture (Bronze/Silver/Gold)</span>
                   </li>
                 </ul>
                 <Button asChild className="w-full">
