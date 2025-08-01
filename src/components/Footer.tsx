@@ -8,15 +8,15 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex items-center mb-4">
-              <span className="text-2xl font-bold text-azure-blue">DataFuse</span>
+              <span className="text-2xl font-bold text-azure-blue">Datavolx</span>
             </Link>
             <p className="text-gray-300 mb-4 max-w-md">
-              We build automated Azure data pipelines for startups using Databricks, 
-              PySpark, and Power BI. Focus on growth, not engineering headaches.
+              Empowering businesses with end-to-end Azure data engineering solutions. 
+              Cloud migration, data pipelines, and business intelligence for all sizes.
             </p>
             <p className="text-gray-400">
-              <a href="mailto:hi@datafuse.com" className="hover:text-azure-blue transition-colors">
-                hi@datafuse.com
+              <a href="mailto:info@datavolx.com" className="hover:text-azure-blue transition-colors">
+                info@datavolx.com
               </a>
             </p>
           </div>
@@ -57,7 +57,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 DataFuse. All rights reserved. Built by Azure-certified data engineers.
+            © 2024 Datavolx. All rights reserved. Built by Azure-certified data engineers.
           </p>
         </div>
       </div>

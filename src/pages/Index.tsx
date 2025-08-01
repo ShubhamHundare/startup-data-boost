@@ -18,11 +18,11 @@ const Index = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="text-white">
               <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
-                Scalable Data Pipelines for Startups – 
-                <span className="text-white/90"> Delivered in 14 Days</span>
+                End-to-End Azure Data Engineering
+                <span className="text-white/90"> Solutions</span>
               </h1>
               <p className="text-xl lg:text-2xl mb-8 text-white/90 leading-relaxed">
-                We automate your Azure Data Lake, ETL, and dashboards so you can focus on growth, not engineering headaches.
+                Empowering businesses with comprehensive cloud migration, data engineering pipelines, and business intelligence solutions on Microsoft Azure.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" variant="secondary" asChild className="text-lg px-8 py-6">
@@ -51,7 +51,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold mb-6 text-foreground">
-              Why Startups Choose DataFuse
+              Why Choose Datavolx
             </h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
